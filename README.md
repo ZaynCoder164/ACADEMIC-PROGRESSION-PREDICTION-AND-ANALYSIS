@@ -3,10 +3,10 @@ Academic progression prediction and analysis is the process of using data and st
 
 Features
 
-Predicts Students marks which helps in Academic improvement and progression.
+>Predicts Students marks which helps in Academic improvement and progression.
 
-Secure login.
+>Secure login.
 
-Only Teachers can access the webpage and manage students progress
+>Only Teachers can access the webpage and manage students progress
 
 
